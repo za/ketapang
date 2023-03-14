@@ -4,6 +4,9 @@ learn about multiple branches. The name is taken from Ketapang Kencana tree.
 ![Ketapang Kencana](https://github.com/za/ketapang/blob/main/img/Terminalia_mantaly.jpeg) taken from
 [Wikipedia](https://id.wikipedia.org/wiki/Ketapang_kencana).
 
+## 1.1.4
+Test creating a fake git user.email address
+
 ## 1.1.3
 Test ohmyzsh shortcut gcsm
 
