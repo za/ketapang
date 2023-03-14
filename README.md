@@ -4,6 +4,9 @@ learn about multiple branches. The name is taken from Ketapang Kencana tree.
 ![Ketapang Kencana](https://github.com/za/ketapang/blob/main/img/Terminalia_mantaly.jpeg) taken from
 [Wikipedia](https://id.wikipedia.org/wiki/Ketapang_kencana).
 
+## 1.1.1
+Test making a signed commit with -S option.
+
 ## 1.1.0
 Test making a signed commit.
 
