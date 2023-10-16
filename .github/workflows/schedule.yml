@@ -1,5 +1,5 @@
 name: GitHub actions schedule
-run-name: Run GitHub actions in schedule
+run-name: Run GitHub actions in schedule 🕒
 
 on:
   schedule:
